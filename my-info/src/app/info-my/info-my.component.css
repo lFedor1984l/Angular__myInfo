@@ -1,0 +1,14 @@
+ul, li {
+    list-style: none;
+}
+
+.my__info {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.mark {
+    font-size: 20px;
+    font-weight: 700;
+}
